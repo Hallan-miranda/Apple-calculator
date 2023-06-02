@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+*{
+  font-family: 'Inter', sans-serif;
+}
+button{
+height: 70px;
+width: 70px;
+border-radius: 1.5em ;
+font-size: 2em;
+margin: 0.2em;
+size: 2.5em;
+}
+
+.orangeButton{
+  background-color: #FF9500;
+  color: #ffffff;
+}
+.greyButton{
+  background-color: #D4D4D2;
+  color: #1c1c1c;
+}
+.normalButton{
+  background-color: #505050;
+  color: #D4D4D2;
+}
+.zeroButton{
+  background-color: #505050;
+  color: #D4D4D2;
+  width: 152.8px;
+}
+.display{
+  display: flex;
+  justify-content: flex-end;
+  font-size: 3.5em;
+  margin-right: 1.5em;
+}
